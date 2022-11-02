@@ -18,9 +18,9 @@ Problem Statement: The company wants to understand the driving factors (or drive
 
 
 ## Conclusions
-** GrLivArea,OverallQual,GarageArea,OverallCond,BsmtQual --Are top 5 positively correlated with Sale Price i.e If these values increase the sale price also increases.
-** MSZoning_RM,Neighborhood_Edwards,PropertyAge,MSSubClass,BsmtExposure_No --Are top 5 negatively correlated with Sale Price i.e If these values increase the sale price decreases.
-** We can finalise the Lasso model as it has got down the features to 54.
+- GrLivArea,OverallQual,GarageArea,OverallCond,BsmtQual --Are top 5 positively correlated with Sale Price i.e If these values increase the sale price also increases.
+- MSZoning_RM,Neighborhood_Edwards,PropertyAge,MSSubClass,BsmtExposure_No --Are top 5 negatively correlated with Sale Price i.e If these values increase the sale price decreases.
+- We can finalise the Lasso model as it has got down the features to 54.
 
 
 ## Technologies Used
